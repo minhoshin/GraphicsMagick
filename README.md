@@ -1,5 +1,6 @@
 # GraphicsMagick
 
+```
 # Install build dependencies
 yum install -y gcc libpng libjpeg libpng-devel libjpeg-devel ghostscript libtiff libtiff-devel freetype freetype-devel
 
@@ -26,5 +27,5 @@ gm version
 - 재로그인을 하거나 `source $HOME/.bashrc` 명령을 실행하여 환경변수 새로고침
 - `gm version` 으로 설치 여부 확인
 - 번들의 `giftest.gif`, `jpgtest.jpg`, `pngtest.png` 파일들을 가지고 테스트해볼 것(`gm identify 파일명`)
-
+```
 
